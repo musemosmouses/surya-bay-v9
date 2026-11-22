@@ -1,0 +1,24 @@
+{
+  "shots": [
+    {
+      "description": "Police chase at wanted level 3 with the minimap and mission objective on the HUD",
+      "name": "1-chase.jpg",
+      "query": "?shot=1"
+    },
+    {
+      "description": "On foot on a city street with traffic cars and pedestrians around",
+      "name": "2-street.jpg",
+      "query": "?shot=2"
+    },
+    {
+      "description": "Street race: driving toward the first pink gate at speed, wanted level 2, race timer on the HUD",
+      "name": "3-drive.jpg",
+      "query": "?shot=3"
+    },
+    {
+      "description": "Start screen over a live view of the city with the minimap",
+      "name": "4-menu.jpg",
+      "query": "?shot=4"
+    }
+  ]
+}
